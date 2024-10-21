@@ -1,2 +1,1 @@
-# Dibuj
-Identificador de imagenes 
+# hand_w
